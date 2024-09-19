@@ -1,2 +1,3 @@
 # DevOpsLab1
 Intro to Devops - Tutorial
+Kepler-20e is an exoplanet orbiting Kepler-20. The planet is notable as it is the first planet with a smaller radius than Earth found orbiting a Sun-like star. The planet is second-closest to the star after Kepler-20b, and at 1,040 K (770 °C; 1,410 °F), it is far too hot to have liquid water on its surface. Along with the other four planets in the system, Kepler-20e was announced on 20 December 2011.
